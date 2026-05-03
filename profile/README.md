@@ -65,7 +65,8 @@ We orchestrate every layer below us; we never replace them.
 ## Where to go next
 
 - **Docs** — [docs.agentscore.sh](https://docs.agentscore.sh)
-- **Website + Hub** — [agentscore.sh](https://agentscore.sh)
+- **Website** — [agentscore.sh](https://agentscore.sh)
+- **AgentScore Hub** (merchant dashboard) — [agentscore.sh/dashboard](https://agentscore.sh/dashboard)
 - **Talk to us** — [agentscore.sh/contact](https://agentscore.sh/contact)
 
 We're always hiring talented people — [reach out](https://agentscore.sh/contact).
