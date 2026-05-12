@@ -37,9 +37,8 @@ Repos: [node-commerce](https://github.com/agentscore/node-commerce) · [python-c
 
 ## If you're exploring
 
-See it live at [agents.martinestate.com](https://agents.martinestate.com) —
-agent-facing wine commerce with multi-rail payments and identity gating.
-The skill manifest is at [/skill.md](https://agents.martinestate.com/skill.md).
+Run a `GET /v1/reputation/:address` against `api.agentscore.sh` (no key) to see the
+shape of a reputation lookup. Quickstart + worked examples live in the [docs](https://docs.agentscore.sh/).
 
 ---
 
