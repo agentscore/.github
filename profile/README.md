@@ -47,7 +47,7 @@ Drop one of these into any agent. It verifies, pays, and ships real product.
 > Buy me jewelry. See https://agents.sayerandstone.com/skill.md.
 ```
 
-Both storefronts ship multi-rail 402 payments (Base, Solana, Tempo, Stripe) and AgentScore Gate compliance.
+Both storefronts ship multi-rail 402 payments (Base, Solana, Tempo, Stripe). Martin layers in AgentScore Gate (KYC + age 21+ + sanctions + US-only jurisdiction) because wine is regulated; jewelry isn't.
 
 ---
 
