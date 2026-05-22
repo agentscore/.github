@@ -37,9 +37,17 @@ Repos: [node-commerce](https://github.com/agentscore/node-commerce) · [python-c
 
 ## If you're exploring
 
-See it live at [agents.martinestate.com](https://agents.martinestate.com) —
-agent-facing wine commerce with multi-rail payments and identity gating.
-The skill manifest is at [/skill.md](https://agents.martinestate.com/skill.md).
+Drop one of these into Claude Code, a Slack/Discord agent like OpenClaw, or any custom SDK-driven agent. It verifies, pays, and ships real product. The chat-only surfaces (chatgpt.com, claude.ai) don't work.
+
+```
+> Buy me wine. See https://agents.martinestate.com/skill.md.
+```
+
+```
+> Buy me jewelry. See https://agents.sayerandstone.com/skill.md.
+```
+
+Both storefronts ship multi-rail 402 payments (Base, Solana, Tempo, Stripe). Martin layers in AgentScore Gate (KYC + age 21+ + sanctions + US-only jurisdiction) because wine is regulated; jewelry isn't.
 
 ---
 
