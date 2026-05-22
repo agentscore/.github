@@ -37,12 +37,17 @@ Repos: [node-commerce](https://github.com/agentscore/node-commerce) · [python-c
 
 ## If you're exploring
 
-Two live agent-facing storefronts running the full stack:
+Drop one of these into any agent. It verifies, pays, and ships real product.
 
-- **[agents.martinestate.com](https://agents.martinestate.com)** — wine commerce ([skill.md](https://agents.martinestate.com/skill.md))
-- **[agents.sayerandstone.com](https://agents.sayerandstone.com)** — jewelry commerce ([skill.md](https://agents.sayerandstone.com/skill.md))
+```
+> Buy me wine. See https://agents.martinestate.com/skill.md.
+```
 
-Both ship multi-rail 402 payments (Base, Solana, Tempo, Stripe) and AgentScore Gate compliance.
+```
+> Buy me jewelry. See https://agents.sayerandstone.com/skill.md.
+```
+
+Both storefronts ship multi-rail 402 payments (Base, Solana, Tempo, Stripe) and AgentScore Gate compliance.
 
 ---
 
