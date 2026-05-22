@@ -37,7 +37,7 @@ Repos: [node-commerce](https://github.com/agentscore/node-commerce) · [python-c
 
 ## If you're exploring
 
-Drop one of these into your agent. It verifies, pays, and ships real product.
+Drop one of these into Claude Code, Cursor, Amp, or any HTTP-capable agent runtime — it verifies, pays, and ships real product. (Chat-only surfaces like chatgpt.com and claude.ai don't work.)
 
 ```
 > Buy me wine. See https://agents.martinestate.com/skill.md.
