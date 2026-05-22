@@ -37,9 +37,12 @@ Repos: [node-commerce](https://github.com/agentscore/node-commerce) · [python-c
 
 ## If you're exploring
 
-See it live at [agents.martinestate.com](https://agents.martinestate.com) —
-agent-facing wine commerce with multi-rail payments and identity gating.
-The skill manifest is at [/skill.md](https://agents.martinestate.com/skill.md).
+Two live agent-facing storefronts running the full stack:
+
+- **[agents.martinestate.com](https://agents.martinestate.com)** — wine commerce ([skill.md](https://agents.martinestate.com/skill.md))
+- **[agents.sayerandstone.com](https://agents.sayerandstone.com)** — jewelry commerce ([skill.md](https://agents.sayerandstone.com/skill.md))
+
+Both ship multi-rail 402 payments (Base, Solana, Tempo, Stripe) and AgentScore Gate compliance.
 
 ---
 
