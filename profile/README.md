@@ -73,8 +73,8 @@ We orchestrate every layer below us; we never replace them.
 ## Where to go next
 
 - **Docs** — [docs.agentscore.com](https://docs.agentscore.com)
-- **Website** — [agentscore.com](https://agentscore.com)
-- **AgentScore Hub** (merchant dashboard) — [agentscore.com/dashboard](https://agentscore.com/dashboard)
-- **Talk to us** — [agentscore.com/contact](https://agentscore.com/contact)
+- **Website** — [agentscore.com](https://www.agentscore.com)
+- **AgentScore Hub** (merchant dashboard) — [agentscore.com/dashboard](https://www.agentscore.com/dashboard)
+- **Talk to us** — [agentscore.com/contact](https://www.agentscore.com/contact)
 
-We're always hiring talented people — [reach out](https://agentscore.com/contact).
+We're always hiring talented people — [reach out](https://www.agentscore.com/contact).
