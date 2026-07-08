@@ -1,8 +1,8 @@
 # AgentScore
 
-**The agentic commerce stack.**
+**Economic infrastructure for AI agents.**
 
-Identity, payments, and compliance — orchestrated for AI agents.
+Identity, payments, and compliance, orchestrated for AI agents.
 
 ---
 
@@ -35,6 +35,8 @@ pip install agentscore-commerce
 
 Repos: [node-commerce](https://github.com/agentscore/node-commerce) · [python-commerce](https://github.com/agentscore/python-commerce)
 
+No engineers to spare? Our forward-deployed engineers build the integration with you, end to end. [Talk to us](https://www.agentscore.com/contact).
+
 ## If you're exploring
 
 Drop one of these into Claude Code, a Slack/Discord agent like OpenClaw, or any custom SDK-driven agent. It verifies, pays, and ships real product. The chat-only surfaces (chatgpt.com, claude.ai) don't work.
@@ -56,25 +58,25 @@ Both storefronts ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin 
 | Product | What it is |
 |---|---|
 | **AgentScore Passport** | Cross-merchant operator identity. KYC'd once, portable everywhere AgentScore-gated. Free for buyers, forever. |
-| **AgentScore Commerce** | Merchant SDK — multi-rail x402/MPP, identity gating, payment helpers, discovery (`/llms.txt`, `/skill.md`, `/.well-known/mpp.json`, A2A, UCP). |
+| **AgentScore Commerce** | Merchant SDK: multi-rail x402/MPP, identity gating, payment helpers, discovery (`/llms.txt`, `/skill.md`, `/.well-known/mpp.json`, A2A, UCP). |
 | **AgentScore Pay** | Universal agent CLI for x402 + MPP payments across Tempo, Solana, and Base. MCP-ready. |
-| **AgentScore Gate** | Compliance middleware — KYC, age, sanctions, jurisdiction. Ships inside AgentScore Commerce. |
+| **AgentScore Gate** | Compliance middleware: KYC, age, sanctions, jurisdiction. Ships inside AgentScore Commerce. |
 | **AgentScore SDK** | Base API client for the AgentScore APIs. |
 
 ## Built on open protocols
 
 We orchestrate every layer below us; we never replace them.
 
-- **x402** — Coinbase's HTTP 402 payment standard ([x402.org](https://x402.org)).
-- **MPP** — Machine Payments Protocol from Stripe and Tempo ([paymentauth.org](https://paymentauth.org)).
-- **Stripe Shared Payment Tokens** — agent-scoped card payments via Stripe Link.
-- **viem / wagmi** — wevm's EVM libraries. **mppx** — the MPP client library.
+- **x402**: Coinbase's HTTP 402 payment standard ([x402.org](https://x402.org)).
+- **MPP**: Machine Payments Protocol from Stripe and Tempo ([paymentauth.org](https://paymentauth.org)).
+- **Stripe Shared Payment Tokens**: agent-scoped card payments via Stripe Link.
+- **viem / wagmi**: wevm's EVM libraries. **mppx**: the MPP client library.
 
 ## Where to go next
 
-- **Docs** — [docs.agentscore.com](https://docs.agentscore.com)
-- **Website** — [agentscore.com](https://www.agentscore.com)
-- **AgentScore Hub** (merchant dashboard) — [agentscore.com/dashboard](https://www.agentscore.com/dashboard)
-- **Talk to us** — [agentscore.com/contact](https://www.agentscore.com/contact)
+- **Docs**: [docs.agentscore.com](https://docs.agentscore.com)
+- **Website**: [agentscore.com](https://www.agentscore.com)
+- **AgentScore Hub** (the dashboard): [agentscore.com/dashboard](https://www.agentscore.com/dashboard)
+- **Talk to us**: [agentscore.com/contact](https://www.agentscore.com/contact)
 
-We're always hiring talented people — [reach out](https://www.agentscore.com/contact).
+We're always hiring talented people. [Reach out](https://www.agentscore.com/contact).
