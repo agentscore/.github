@@ -49,7 +49,11 @@ Drop one of these into Claude Code, a Slack/Discord agent like OpenClaw, or any 
 > Buy me jewelry. See https://agents.sayerandstone.com/skill.md.
 ```
 
-Both storefronts ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin adds Solana). Martin layers in AgentScore Gate (KYC + age 21+ + sanctions + US-only jurisdiction) because wine is regulated; jewelry isn't.
+```
+> Find a work email. See https://fullenrich.agentscore.com/skill.md.
+```
+
+The goods stores ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin adds Solana); the FullEnrich data store settles Tempo, Solana, and Base. Martin layers in AgentScore Gate (KYC + age 21+ + sanctions + US-only jurisdiction) because wine is regulated; jewelry isn't. FullEnrich tiers the gate by data: company and people data settle anonymously, while emails and phones require a KYC-verified buyer.
 
 ---
 
