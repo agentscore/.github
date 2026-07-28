@@ -85,7 +85,7 @@ We orchestrate every layer below us; we never replace them.
 
 - **Docs**: [docs.agentscore.com](https://docs.agentscore.com)
 - **Website**: [agentscore.com](https://www.agentscore.com)
-- **AgentScore Hub** (the dashboard): [agentscore.com/dashboard](https://www.agentscore.com/dashboard)
+- **AgentScore Commerce Hub** (the dashboard): [agentscore.com/dashboard](https://www.agentscore.com/dashboard)
 - **Talk to us**: [agentscore.com/contact](https://www.agentscore.com/contact)
 
 We're always hiring talented people. [Reach out](https://www.agentscore.com/contact).
