@@ -1,8 +1,9 @@
 # AgentScore
 
-**Economic infrastructure for AI agents.**
+**Infrastructure for AI agents.**
 
-Identity, payments, and compliance, orchestrated for AI agents.
+Agents that buy: identity, payments, and compliance, orchestrated on any rail.
+Agents that work: Hivemind by AgentScore, a governed brain and agent team inside your company.
 
 ---
 
@@ -53,6 +54,13 @@ Both storefronts ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin 
 
 ---
 
+## If you want agents working inside your company
+
+**Hivemind by AgentScore** is our second line: one governed source of truth for how your
+company works, and agent employees in your Slack that read it, own real jobs, and wait
+for a human yes on anything that ships. We run our own company on it every day.
+[Watch it work](https://www.agentscore.com/hivemind).
+
 ## What we ship today
 
 | Product | What it is |
@@ -62,6 +70,7 @@ Both storefronts ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin 
 | **AgentScore Pay** | Universal agent CLI for x402 + MPP payments across Tempo, Solana, and Base. MCP-ready. |
 | **AgentScore Gate** | Compliance middleware: KYC, age, sanctions, jurisdiction. Ships inside AgentScore Commerce. |
 | **AgentScore SDK** | Base API client for the AgentScore APIs. |
+| **Hivemind by AgentScore** | A governed company brain plus agent employees in Slack, with a human yes on every write. |
 
 ## Built on open protocols
 
