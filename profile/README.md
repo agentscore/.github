@@ -37,12 +37,6 @@ Repos: [node-commerce](https://github.com/agentscore/node-commerce) · [python-c
 
 No engineers to spare? Our forward-deployed engineers build the integration with you, end to end. [Talk to us](https://www.agentscore.com/contact).
 
-## If you want AI working in your company
-
-**Hivemind by AgentScore** is a team of AI agents we build into your company: coworkers in your Slack with real jobs, one shared brain of how you do things, and your yes before anything goes out. We build it with you, and you own all of it.
-
-See it work: [agentscore.com/hivemind](https://www.agentscore.com/hivemind)
-
 ## If you're exploring
 
 Drop one of these into Claude Code, a Slack/Discord agent like OpenClaw, or any custom SDK-driven agent. It verifies, pays, and ships real product. The chat-only surfaces (chatgpt.com, claude.ai) don't work.
@@ -56,6 +50,12 @@ Drop one of these into Claude Code, a Slack/Discord agent like OpenClaw, or any 
 ```
 
 Both storefronts ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin adds Solana). Martin layers in AgentScore Gate (KYC + age 21+ + sanctions + US-only jurisdiction) because wine is regulated; jewelry isn't.
+
+## If you want AI working in your company
+
+**Hivemind by AgentScore** is a team of AI agents we build into your company: coworkers in your Slack with real jobs, one shared brain of how you do things, and your yes before anything goes out. We build it with you, and you own all of it.
+
+See it work: [agentscore.com/hivemind](https://www.agentscore.com/hivemind)
 
 ---
 
