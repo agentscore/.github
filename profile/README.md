@@ -55,6 +55,12 @@ Drop one of these into Claude Code, a Slack/Discord agent like OpenClaw, or any 
 
 The goods stores ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin adds Solana); the FullEnrich data store settles Tempo, Solana, and Base. Martin layers in AgentScore Gate (KYC + age 21+ + sanctions + US-only jurisdiction) because wine is regulated; jewelry isn't. FullEnrich tiers the gate by data: company and people data settle anonymously, while emails and phones require a KYC-verified buyer.
 
+## If you want AI working in your company
+
+**Hivemind by AgentScore** is a team of AI agents we build into your company: coworkers in your Slack with real jobs, one shared brain of how you do things, and your yes before anything goes out. We build it with you, and you own all of it.
+
+See it work: [agentscore.com/hivemind](https://www.agentscore.com/hivemind)
+
 ---
 
 ## What we ship today
@@ -66,6 +72,7 @@ The goods stores ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin 
 | **AgentScore Pay** | Universal agent CLI for x402 + MPP payments across Tempo, Solana, and Base. MCP-ready. |
 | **AgentScore Gate** | Compliance middleware: KYC, age, sanctions, jurisdiction. Ships inside AgentScore Commerce. |
 | **AgentScore SDK** | Base API client for the AgentScore APIs. |
+| **Hivemind** | A team of AI agents built into your company: real jobs, one shared brain, your rules. Built with you by our forward-deployed engineers. [See it work](https://www.agentscore.com/hivemind). |
 
 ## Built on open protocols
 
