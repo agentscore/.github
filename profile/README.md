@@ -59,7 +59,7 @@ The goods stores ship multi-rail x402/MPP payments (Stripe, Tempo, Base; Martin 
 
 **Hivemind by AgentScore** is a team of AI agents we build into your company: coworkers in your Slack with real jobs, one shared brain of how you do things, and your yes before anything goes out. We build it with you, and you own all of it.
 
-See it work: [agentscore.com/hivemind](https://www.agentscore.com/hivemind)
+See it work: [hivemind.agentscore.com](https://hivemind.agentscore.com)
 
 ---
 
@@ -72,7 +72,7 @@ See it work: [agentscore.com/hivemind](https://www.agentscore.com/hivemind)
 | **AgentScore Pay** | Universal agent CLI for x402 + MPP payments across Tempo, Solana, and Base. MCP-ready. |
 | **AgentScore Gate** | Compliance middleware: KYC, age, sanctions, jurisdiction. Ships inside AgentScore Commerce. |
 | **AgentScore SDK** | Base API client for the AgentScore APIs. |
-| **Hivemind** | A team of AI agents built into your company: real jobs, one shared brain, your rules. Built with you by our forward-deployed engineers. [See it work](https://www.agentscore.com/hivemind). |
+| **Hivemind** | A team of AI agents built into your company: real jobs, one shared brain, your rules. Built with you by our forward-deployed engineers. [See it work](https://hivemind.agentscore.com). |
 
 ## Built on open protocols
 
