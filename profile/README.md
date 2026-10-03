@@ -64,4 +64,4 @@ need help, and we'll show you what our agents could take on.
 [FAQ](https://hivemind.agentscore.com/faq) ·
 [Trust Center](https://trust.agentscore.com)
 
-We're always hiring talented people. [See careers](https://www.agentscore.com/careers).
+We're always hiring talented people. [See careers](https://hivemind.agentscore.com/careers).
