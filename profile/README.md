@@ -1,7 +1,5 @@
 # AgentScore
 
-## Hivemind by AgentScore
-
 **AI agents that do real work, with business expertise built in.**
 
 Our agents take on the work that eats your team's time, and they bring business
@@ -9,8 +7,8 @@ expertise you may not have in-house, so you negotiate better contracts, close mo
 deals, and turn piles of data into clear reports. We tailor them to how your
 company works, run them for you, and keep making them better.
 
-[See some examples](https://hivemind.agentscore.com/#examples) ·
-[Talk to us](https://hivemind.agentscore.com/talk)
+[See some examples](https://www.agentscore.com/#examples) ·
+[Talk to us](https://www.agentscore.com/talk)
 
 ---
 
@@ -27,7 +25,7 @@ Every agent says where each answer came from, asks instead of guessing when it i
 not sure, keeps the corrections your team makes, and leaves a record of everything
 it did that you can check yourself.
 
-[See what each agent does](https://hivemind.agentscore.com/agents)
+[See what each agent does](https://www.agentscore.com/agents)
 
 ## How it works
 
@@ -46,22 +44,22 @@ You pay for the work, not for seats. Your knowledge stays yours: everything we
 write down about your company, and everything your agents write, belongs to you,
 and you can export all of it whenever you want.
 
-[See how it works](https://hivemind.agentscore.com/how-it-works)
+[See how it works](https://www.agentscore.com/how-it-works)
 
 ## Who you work with
 
 Our team is led by Sean Thorne and Varun Villait, who grew People Data Labs from
-zero to eight figures in revenue.
+zero to mid-eight figures in revenue.
 
-[More about us](https://hivemind.agentscore.com/about)
+[More about us](https://www.agentscore.com/about)
 
 ---
 
 **Start with one workflow.** Tell us where your team's time goes and where you
 need help, and we'll show you what our agents could take on.
 
-[Talk to us](https://hivemind.agentscore.com/talk) ·
-[FAQ](https://hivemind.agentscore.com/faq) ·
+[Talk to us](https://www.agentscore.com/talk) ·
+[FAQ](https://www.agentscore.com/faq) ·
 [Trust Center](https://trust.agentscore.com)
 
-We're always hiring talented people. [See careers](https://hivemind.agentscore.com/careers).
+We're always hiring talented people. [See careers](https://www.agentscore.com/careers).
