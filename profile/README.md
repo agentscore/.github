@@ -16,10 +16,12 @@ company works, run them for you, and keep making them better.
 
 | Agent | What it does |
 |---|---|
-| **Contract Agent** | Reviews contracts before you sign. It reads the contract in front of you against a standard we built from years of negotiating deals, and your own positions sharpen it over time. |
-| **Sales Agent** | Helps your team work deals. It answers what your salespeople ask in the middle of a deal: what you charge, how to answer pushback, where the deal stands. |
+| **Contract Specialist** | Reviews contracts before you sign. It reads the contract in front of you against a standard we built from years of negotiating deals, and your own positions sharpen it over time. |
+| **Sales Coach** | Helps whoever sells work a live deal. Bring it the email thread, your call notes or a question, and it recommends the next move, plays the buyer while you practice, and drafts the reply. |
+| **Partnerships Coach** | Checks a provider's proposal against what you really use today, shows which terms can move, and preps the call with what to ask for instead. |
 | **Data Analyst Agent** | Turns piles of data into clear reports. Your team can ask it questions in plain English, and every number shows where it came from. |
 | **Data QA Agent** | Checks your data before it ships, against a quality standard we built from years of shipping people and company data. You find the problems before your customers do. |
+| **Marketing Agent** | Checks whether ChatGPT and other AI tools recommend your company, then shows what to fix on your site and where else to show up. |
 
 Every agent says where each answer came from, asks instead of guessing when it is
 not sure, keeps the corrections your team makes, and leaves a record of everything
