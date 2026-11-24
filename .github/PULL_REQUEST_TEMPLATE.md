@@ -4,7 +4,7 @@
 
 ## Public-facing impact
 
-<!-- What a visitor to the org profile or a health-file consumer sees differently after this merges. "Nothing visible" is a valid answer. -->
+<!-- What a visitor to the org profile sees differently after this merges. "Nothing visible" is a valid answer. -->
 
 ## Checklist
 
